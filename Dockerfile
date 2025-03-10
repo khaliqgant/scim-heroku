@@ -1,1 +1,1 @@
-FROM 1password/scim:v0.8.3
+FROM 1password/scim:v2.3.1
