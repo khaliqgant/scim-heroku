@@ -1,0 +1,12 @@
+{
+  "name": "scim-heroku",
+  "version": "1.0.0",
+  "description": "Configuration to deploy the SCIM bridge to Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
