@@ -1,8 +1,7 @@
 {
 	"name": "1Password SCIM Bridge",
 	"description": "Connect 1Password to your Identity Provider for automated user and group provisioning",
-	"repository": "https://github.com/1password/scim-heroku",
+	"repository": "https://github.com/khaliqgant/scim-heroku",
 	"logo": "https://app.1password.com/images/1password-lock.svg",
 	"keywords": ["1password", "security", "provisioning", "scim"]
 }
-  
